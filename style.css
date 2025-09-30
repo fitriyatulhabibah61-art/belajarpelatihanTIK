@@ -1,6 +1,7 @@
 body {
   backgroun-color: #FFFFE0; /* Warna kuning cerah */
-  font-family: Arial, sans-serife; /* Jenis huruf}
+  font-family: Arial, sans-serife; /* Jenis huruf
+  }
 
 .kartu-profil {
   width: 300px;
@@ -8,4 +9,13 @@ body {
   padding: 20px;
   backround-color: white;
   border-radius: 14px /* Membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */}
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+}
+
+.kartu-profil img{
+  width: 150px;
+  border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+
+
+
